@@ -1,0 +1,11 @@
+THIS IS WHATSUP CODE:
+
+Author: Saravanan
+
+1. Profile page code
+
+2. Chat Screen Code
+
+3. Last Seen Code
+
+4. Attachments (Image,Audio,video) Code
