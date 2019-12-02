@@ -9,3 +9,4 @@ Author: Saravanan
 3. Last Seen Code
 
 4. Attachments (Image,Audio,video) Code
+5. Hide image
